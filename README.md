@@ -15,3 +15,11 @@ API Rest de Gerenciamento de tarefas, utilizando para JWT.
 
   ![](https://github.com/welsonjnr/API-TODO/blob/main/img/Sem%20título.png)
   > Dados persistidos.
+
+### Como autenticar para fazer a requisição
+- O projeto utiliza para a autenticação o JWT com sistema de token de acesso e refresh Token.
+- O Acess Token expira a cada 30 minutos, mas o refresh token a cada um ano.
+- Para conseguir o seu acess_token e o refresh_token. Você precisa enviar uma requisição com o email e senha do usuário.
+  
+  ![](https://github.com/welsonjnr/API-TODO/blob/main/img/Sem%20título.png)
+  > Tokens de acesso.

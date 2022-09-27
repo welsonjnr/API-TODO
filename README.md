@@ -1,6 +1,11 @@
 # API-TODO
 API Rest de Gerenciamento de tarefas, utilizando para JWT.
 
+Contatos:
+- Linkedin: https://www.linkedin.com/in/welson-júnior-25b190193/
+- Email : welsongt9@live.com
+
+
 ### Tecnologias utilizadas
 - Java
 - Banco de dados SQL

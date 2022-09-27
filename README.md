@@ -42,9 +42,17 @@ API Rest de Gerenciamento de tarefas, utilizando para JWT.
 
 ### Swagger
 - O projeto conta com a API do Swagger para ter acessos ao endpoints.
+- No Swagger é possível visualizar todos os endpoints criados e os exemplos de como enviar as requisições.
 - link para acessar o swagger : "http://localhost:8080/swagger-ui.html#/"
-
 
 ![](https://github.com/welsonjnr/API-TODO/blob/main/img/Sem%20título.png)
 > Exemplo Swagger.
+
+- No Swagger também é possível colocar o token de acesso para fazer as requisições autenticadas.
+- Sendo necessário apenas colocar no campo de Authorize "Bearer acess_token".
+
+![](https://github.com/welsonjnr/API-TODO/blob/main/img/Sem%20título.png)
+> Exemplo Requisição Swagger.
+
+
 

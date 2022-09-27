@@ -12,4 +12,6 @@ API Rest de Gerenciamento de tarefas, utilizando para JWT.
 - A o configurar o banco de dados no arquivo application.properties, as tabelas e relacionamentos serão criados pela JPA.
 - Alguns dados já serão persistidos do banco de dados ao iniciar a aplicação.
 - A o iniciar a aplicação alguns dados já estão sendo
-- 
+
+  ![](https://github.com/welsonjnr/API-TODO/blob/main/img/Sem%20título.png)
+  > Dados persistidos.
